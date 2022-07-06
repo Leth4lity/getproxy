@@ -5,7 +5,7 @@
 An automatic , on-demand source of http, socks4 and socks5 proxies.
 Updated every 5-10 minutes
 
-A child of instacrack - The Ultimate Instagram Account Cracker (https://github.com/Leth4lity/instacrack.git)
+The official proxy grabber of "instacrack" - The Ultimate Instagram Account Cracker (https://github.com/Leth4lity/instacrack.git)
 
 
 An automatic , on-demand source of http, socks4 and socks5 proxies.
