@@ -1,19 +1,31 @@
 # getproxy
-An automatic , on-demand source of http, socks4 and socks5 proxies.
 
+
+
+An automatic , on-demand source of http, socks4 and socks5 proxies.
 Updated every 5-10 minutes
+
+A child of instacrack - The Ultimate Instagram Account Cracker (https://github.com/Leth4lity/instacrack.git)
+
+
+An automatic , on-demand source of http, socks4 and socks5 proxies.
 -----------------------------------------------------------------------------------------------------------------------------------------------------
+
 git clone https://github.com/Leth4lity/getproxy.git
 
 chmod +x getproxy.sh
 
-./getproxy.sh
+./getproxy.sh 
+
+
 
 Upon sucessfully beginning the program, 3 curl GET requests are made and the proxies are stored in 3 seperate files entitled:
 
-socks4.txt
-socks5.txt
-http.txt
+socks4-proxys.txt
+socks5-proxys.txt
+http-proxys.txt
+
+
 
 Proxs on,
 
